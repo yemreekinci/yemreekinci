@@ -14,3 +14,5 @@ Hi, I'm Emre  <br>I'm a software developer focused on C# / .NET Core and Flutter
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yemreekinci&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
