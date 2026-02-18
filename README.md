@@ -1,5 +1,17 @@
 # About Me:
-Hi, I'm Emre  <br>I'm a software developer focused on C# / .NET Core <br>I enjoy building clean, scalable applications and learning new technologies.  <br><br>Currently working on backend projects
+Hi, I'm Emre  <br>I'm a software developer focused on C# / .NET Core <br>I enjoy building clean, scalable applications and learning new technologies.  <br><br>Currently working on backend projects. <br> ## 🧭 Backend Architecture Evolution Roadmap
+
+I build different projects using different architectures, starting from simple to more advanced ones.
+
+- [x] ~~Level 1 – Layered Monolith: Single-project folder-based Controller–Service–Repository architecture with EF Core.~~
+- [ ] Level 2 – Clean Architecture: Project-based layer separation with strict dependency inversion.
+- [ ] Level 3 – Clean + DDD + CQRS: Aggregate-driven domain model with command/query separation and domain events.
+- [ ] Level 4 – Modular Monolith: Isolated business modules with explicit boundaries inside a single deployable unit.
+- [ ] Level 5 – Microservices: Independently deployable services communicating via event-driven patterns.
+
+### 🚀 Current Level
+Level 2 – Clean Architecture (In Progress)
+
 
 
 ## Socials:
