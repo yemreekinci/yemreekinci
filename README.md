@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Emre  <br>I'm a software developer focused on C# / .NET Core <br>I enjoy building clean, scalable applications and learning new technologies.  <br><br>Currently working on backend projects  <br>Improving myself in backend architecture and mobile development  <br>
+Hi, I'm Emre  <br>I'm a software developer focused on C# / .NET Core <br>I enjoy building clean, scalable applications and learning new technologies.  <br><br>Currently working on backend projects
 
 
 ## Socials:
