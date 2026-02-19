@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Emre  <br>I'm a software developer focused on C# / .NET Core <br>I enjoy building clean, scalable applications and learning new technologies.  <br><br>Currently working on backend projects. <br> I build different projects using different architectures, starting from simple to more advanced ones.
+Hi, I'm Emre  <br>I'm a software developer focused on C# / .NET Core <br>I enjoy building clean, scalable applications and learning new technologies.  <br><br>Currently working on backend projects. <br> I build projects following a growth in complexity, starting with simple architectures and gradually moving to more advanced, domain- and modular-driven designs.
 
 - [x] ~~Level 1 – Layered Monolith: Single-project folder-based Controller–Service–Repository architecture with EF Core.~~
 - [ ] Level 2 – Clean Architecture: Project-based layer separation with strict dependency inversion.
