@@ -3,12 +3,11 @@ Hi, I'm Emre  <br>I'm a software developer focused on C# / .NET Core <br>I enjoy
 
 - [x] ~~Level 1 – Layered Monolith: Single-project folder-based Controller–Service–Repository architecture with EF Core.~~
 - [x] ~~Level 2 – Clean Architecture: Project-based layer separation with strict dependency inversion.~~
-- [ ] Level 3 – Clean + DDD + CQRS: Aggregate-driven domain model with command/query separation and domain events.
-- [ ] Level 4 – Modular Monolith: Isolated business modules with explicit boundaries inside a single deployable unit.
-- [x] ~~Level 5 – Microservices: Independently deployable services communicating via event-driven patterns.~~
+- [x] ~~Level 3 – Microservices: Independently deployable services communicating via event-driven patterns.~~
+- [ ] Level 4 – DDD + CQRS: Aggregate-driven domain model with command/query separation and domain events.
 
 ### Current Level
-Level 3 – Clean + DDD + CQRS: Aggregate-driven domain model(In Progress)
+Level 4 – DDD + CQRS: Aggregate-driven domain model(In Progress)
 
 
 
